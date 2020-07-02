@@ -1,0 +1,166 @@
+body{
+    background-color: #1d2029;
+}
+
+.container-1 div, #container-3 div{
+    border: 1px  solid #02091f;
+    padding: 10px;
+    margin-left: 15px;
+    color: deepskyblue;
+}
+
+#container-3{
+    margin-top: 15px;
+}
+
+#container-2 div{
+    border: 1px  solid #02091f;
+    padding: 20px;
+    margin-left: 15px;
+    color: deepskyblue;
+}
+
+.container-1, #container-3{
+    display: flex;  
+    
+}
+
+#container-2{
+    display: flex; 
+}
+
+ p,h1,h2,h3,h4{
+    color: #FFF;
+    margin-left: 15px;
+    
+}
+
+#box-1{
+   flex: 1;
+   background-color: rgba(5, 1, 26, 0.671);
+   border-top: 3px solid rgba(29, 9, 145, 0.726);
+   
+
+}
+
+#box-2{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top: 3px solid #3f729b 
+ }
+
+ #box-3{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top: 3px solid rgba(29, 9, 145, 0.726);
+
+    
+ }
+
+ #box-4{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top: 3px solid rgba(133, 4, 4, 0.911);
+ }
+ #box-5{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top: 3px solid rgba(133, 4, 4, 0.911);
+ }
+
+ #box-6{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top-color:  rgba(133, 4, 4, 0.911);
+ }
+
+ #box-7{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top-color:  rgba(133, 4, 4, 0.911);
+ }
+
+ #box-8{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top-color:  rgba(133, 4, 4, 0.911);
+ }
+ #box-9{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top-color:  rgba(133, 4, 4, 0.911);
+ }
+
+ #box-10{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top-color:  rgba(133, 4, 4, 0.911);
+ }
+
+ #box-11{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top-color:  rgba(133, 4, 4, 0.911);
+ }
+
+ #box-12{
+    flex: 1;
+    background-color: rgba(5, 1, 26, 0.671);
+    border-top-color:  rgba(133, 4, 4, 0.911);
+ }
+
+#imgf-b{
+    
+    justify-content: center;
+}
+
+#box-5 img #test{
+    position: relative;
+    top: 0.15em;
+}
+ 
+
+#username{
+    color: deepskyblue;
+}
+
+/*----------------------------------------------------------------*/
+
+a{
+width: 10px;
+height: 20px;
+position: absolute;
+}
+
+img{
+   width: 20px;
+   height: 20px;
+}
+ul{
+   list-style: none;
+}
+
+li{
+   position: relative;
+   padding: 4px 0 4px 30px;
+}
+
+.edit{
+   left: 0px;
+}
+
+.delete{
+   left: 25px;
+}
+
+.edit1{
+   left: 0px;
+}
+
+.delete1{
+   left: 25px;
+}
+
+#box-12 h1 #test_me{
+    margin-left: 25px;
+}
